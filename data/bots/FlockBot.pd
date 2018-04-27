@@ -1,0 +1,17 @@
+# All plug-ins must run through the following class:
+PLAYER_CLASS=com.biotools.poker.opponent.PlugInOpponent
+
+# put your bot's full class name here:
+BOT_PLAYER_CLASS=bots.demobots.FlockBot
+
+# put the path to your jar file here (relative to PokiPoker.exe)
+PLAYER_JAR_FILE=data/bots/flockBot.jar
+
+# Your Bot's name:
+PLAYER_NAME=FlockBot
+
+# Your bot engine name:
+AI_NAME=Oursland
+
+# Options for your Bot:
+NO_LIMIT=false

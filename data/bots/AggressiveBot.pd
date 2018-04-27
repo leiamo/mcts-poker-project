@@ -1,0 +1,15 @@
+# All plug-ins must run through the following class:
+PLAYER_CLASS=PlugInOpponent
+
+# put your bot's full class name here:
+BOT_PLAYER_CLASS=projectbot.AggressiveBot
+bots.mctsbot.ai.bots.bot.gametree.mcts.MCTSMeerkatBot
+
+# Your Bot's name:
+PLAYER_NAME=AggressiveBot
+
+# Your bot engine name:
+AI_NAME=AggressiveBot
+
+#PROPERTIES
+SHOW_GAMETREE_GUI=false

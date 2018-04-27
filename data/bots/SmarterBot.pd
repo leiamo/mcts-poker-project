@@ -1,0 +1,21 @@
+# All plug-ins must run through the following class:
+PLAYER_CLASS=PlugInOpponent
+
+# put your bot's full class name here:
+BOT_PLAYER_CLASS=bots.smarterbot.SmarterBot
+
+# put the path to your jar file here (relative to application root)
+PLAYER_JAR_FILE=data/bots/smarterBot.jar
+
+# Your Bot's name:
+PLAYER_NAME=SmarterBot
+
+# Your bot engine name:
+AI_NAME=SmarterBot
+
+NO_LIMIT=false
+
+# Options for your Bot:
+DEBUG=false
+RANDOM_SEED=31313
+ALWAYS_CALL_MODE=false

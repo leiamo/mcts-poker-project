@@ -1,0 +1,11 @@
+target
+.idea
+*.iml
+*.ser
+data/*-history.txt
+data/*-chart.png
+data/mctsbot/**/arff
+handRanks.zip
+.DS_Store
+*FellOmen_2*
+*Corintio*
