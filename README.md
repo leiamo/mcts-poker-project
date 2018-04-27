@@ -4,6 +4,8 @@ Final Year CompSci Project Source Code
 -----
 SETUP
 -----
+- Add all .jar dependecies located in "lib/" folder
+- Add WEKA dependency
 - Run game simulations from "src/main/java/CashGameConsoleStarter.java"
 - Set number of games
 - Set bankroll
@@ -29,7 +31,8 @@ PROJECT BOT
 TESTBED
 -------
 - The Open Poker Testbed is imported from https://github.com/corintio/opentestbed with GPL licence
-- Requires Meerkat and Weka dependencies already provided in code package
+- Requires the Meerkat API 2.5 available at http://www.poker-academy.com/community.php
+  The .jar is located in the /lib folder. Documentation can be found at the URL above.
 - Changes made to this code include fixes for limit and heads-up poker
 
 -------------
